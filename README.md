@@ -20,7 +20,7 @@ https://sonic-pi.net/
 
 ## Instructions
 
-Just copy the code into Sonic Pi and press run. It's pretty fun to play around with the global variables at the top.
+Just copy the code into Sonic Pi and press run (or download Snapping Music.rb and open it in Sonic Pi). It's pretty fun to play around with the global variables at the top.
 
 ## About
 
